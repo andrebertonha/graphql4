@@ -1,0 +1,24 @@
+{
+  "name": "graphql4",
+  "version": "1.0.0",
+  "description": "graphql project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrebertonha/graphql4.git"
+  },
+  "author": "André",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrebertonha/graphql4/issues"
+  },
+  "homepage": "https://github.com/andrebertonha/graphql4#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.11.0",
+    "graphql": "^15.3.0"
+  }
+}
